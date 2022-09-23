@@ -1,19 +1,19 @@
-// let pakhi;
-// console.log(pakhi);
+let pakhi;
+console.log(pakhi);
 
-// function add(num1 , num2){
-//     console.log(num1 + num2);
-//     return
-// }
-// const result = add(13, 82);
-// console.log(result);
+function add(num1 , num2){
+    console.log(num1 + num2);
+    return
+}
+const result = add(13, 82);
+console.log(result);
 
-// function add(num1 , num2){
-//     console.log(num1 ,num2);
+function add(num1 , num2){
+    console.log(num1 ,num2);
     
-// }
-// const result = add(13);
-// console.log(result);
+}
+const result2 = add(13);
+console.log(result2);
 
 const premik ={
     name: 'smart dude',
