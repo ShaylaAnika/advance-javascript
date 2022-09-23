@@ -22,4 +22,4 @@ function sum(first , second){
 const output = sum(3 ,7);
 //console.log(bonus);
 //console.log(result)- error
-console.log(output);
+console.log(output); 
